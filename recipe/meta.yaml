@@ -1,4 +1,4 @@
-{% set version = '0.1-3' %}
+{% set version = "0.1-3" %}
 {% set posix = 'm2-' if win else '' %}
 {% set native = 'm2w64-' if win else '' %}
 
@@ -14,7 +14,7 @@ source:
 
 build:
   noarch: generic
-  merge_build_host: True  # [win]
+  merge_build_host: true  # [win]
   number: 1002
   rpaths:
     - lib/R/lib/
@@ -41,9 +41,8 @@ test:
 
 about:
   home: https://CRAN.R-project.org/package=rebus
-  license: Other
-  summary: Build regular expressions piece by piece using human readable code. This package is
-    designed for interactive use.  For package development, use the rebus.* dependencies.
+  license: Unlimited
+  summary: Build regular expressions piece by piece using human readable code. This package is designed for interactive use.  For package development, use the rebus.* dependencies.
 
 extra:
   recipe-maintainers:
