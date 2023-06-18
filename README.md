@@ -1,11 +1,11 @@
-About r-rebus
-=============
+About r-rebus-feedstock
+=======================
+
+Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-rebus-feedstock/blob/main/LICENSE.txt)
 
 Home: https://CRAN.R-project.org/package=rebus
 
 Package license: Unlimited
-
-Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-rebus-feedstock/blob/main/LICENSE.txt)
 
 Summary: Build regular expressions piece by piece using human readable code. This package is designed for interactive use.  For package development, use the rebus.* dependencies.
 
