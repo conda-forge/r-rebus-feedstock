@@ -9,6 +9,8 @@ Package license: Unlimited
 
 Summary: Build regular expressions piece by piece using human readable code. This package is designed for interactive use.  For package development, use the rebus.* dependencies.
 
+Development: https://github.com/richierocks/rebus
+
 Current build status
 ====================
 
