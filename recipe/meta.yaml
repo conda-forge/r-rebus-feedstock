@@ -45,7 +45,7 @@ about:
   license: Unlimited
   license_family: Other
   license_file:
-    - LICENSE
+    - LICENSE-UNLIMITED
   summary: Build regular expressions piece by piece using human readable code. This package is designed for interactive use.  For package development, use the rebus.* dependencies.
 
 extra:
